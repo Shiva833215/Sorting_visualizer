@@ -5,10 +5,10 @@ A web application showcasing the inner workings of sorting algorithms.
 Implemented algorithms:
 1) Bubble sort
 2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
-6) Heap sort
+4) Insertion sort
+5) Merge sort
+6) Quick sort
+7) Heap sort
 
 Features:
 1) Colored representation of step being executed.
@@ -22,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+Take a look at live version: https://Shiva833215.github.io/Sorting_Visualizer/
